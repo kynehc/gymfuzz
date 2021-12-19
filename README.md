@@ -13,8 +13,9 @@ pip install keras-rl2
 
 ### run
 
+```sh
 python ddpg_train.py
-
+```
 
 ### Based on these projects:
 
